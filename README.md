@@ -36,3 +36,22 @@ Load transformed data into a central database (NoSQL). The central database shou
 *	Vehicles that should be sold at auction 
 *	Overall safety rating for each vehicle 
 *	Recalls that apply to each vehicle 
+
+Screenshot of MongoDB Compass: 
+
+![image](https://user-images.githubusercontent.com/61704055/94389334-9dea7600-011d-11eb-85a5-7709cd3b6fb8.png)
+
+Screenshots from the client acceptance website are shown below.  Note that the website features sorting by Mileage, Year, Make, and Price.
+
+![image](https://user-images.githubusercontent.com/61704055/94389382-c2dee900-011d-11eb-9e1b-306a3aa5f5db.png)
+![image](https://user-images.githubusercontent.com/61704055/94389404-d0946e80-011d-11eb-952d-8d7ca0d7b69d.png)
+![image](https://user-images.githubusercontent.com/61704055/94389432-ddb15d80-011d-11eb-9fc2-e781de1bd4fd.png)
+![image](https://user-images.githubusercontent.com/61704055/94389448-e6a22f00-011d-11eb-87ce-97fc0305d338.png)
+
+In addition, the website features routes with JSON output:
+
+![image](https://user-images.githubusercontent.com/61704055/94389486-fc175900-011d-11eb-9e09-f0df176230cf.png)
+![image](https://user-images.githubusercontent.com/61704055/94389511-05082a80-011e-11eb-9842-4b3f8cbaa338.png)
+![image](https://user-images.githubusercontent.com/61704055/94389521-0f2a2900-011e-11eb-8136-fbe4d53efcb2.png)
+![image](https://user-images.githubusercontent.com/61704055/94389536-18b39100-011e-11eb-8c07-b0cabdf5fbfc.png)
+![image](https://user-images.githubusercontent.com/61704055/94389551-25d08000-011e-11eb-9f8d-1a27c7d77f91.png)
