@@ -60,6 +60,3 @@ Link to repository with website code:
 https://github.com/SamuelParks/True-Cars-Website
 
 
-
-
-
