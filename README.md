@@ -59,4 +59,3 @@ In addition, the website features routes with JSON output:
 Link to repository with website code:
 https://github.com/SamuelParks/True-Cars-Website
 
-
